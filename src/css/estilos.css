@@ -33,7 +33,12 @@ main::after{
     margin-bottom: 50px;
 }
 
+
+
 .informacoes .descricao{
+    background-color: rgba(0, 0, 0, 0.158);
+    border-radius: 5px;
+    padding: 10px;
     width: 49%;
     font-size: 24px;
     color: #ffffff;
