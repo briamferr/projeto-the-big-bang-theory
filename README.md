@@ -1,5 +1,7 @@
 # Projeto The Big Bang theory
 
- Projeto TBBT, foi criado com base em um outro projeto do Dev em Dobro.
+ Projeto TBBT, foi criado com base em um outro projeto do @devemdobro.
 
-Nesse projeto pude fazer alguns testes, e deixar com um estilo que mais me agradava.
+ Nesse projeto pude colocar em prática o que foi passado nas lives, e testar outras coisas.
+
+ Tem detalhes que vi que podem ser melhorados, mas para o primeiro projeto, fiquei satisfeito com o resultado!
