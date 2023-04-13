@@ -9,8 +9,5 @@ O objetivo do projeto era desenvolver um carrossel com as fotos de fundo.
 Tem detalhes que vi que podem ser melhorados, mas para o primeiro projeto, fiquei satisfeito com o resultado!
 
 O projeto foi desenvolvido com as seguintes tecnologias:
-   
-HTML    
-CSS 
-Javascript   
-Git e Github
+
+HTML,CSS, Javascript, Git e Github.
